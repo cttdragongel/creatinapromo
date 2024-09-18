@@ -11,7 +11,7 @@ const produto = {
     imagem: "https://lojamaxtitanium.vtexassets.com/arquivos/ids/157936-1600-1600",
     nome: "Pague 1 e leve 3 creatina MaxTitanium 900g- Promoçao dia das crianças",
     preco: {
-        original: "290,45",
+        original: "290,50",
         desconto: "97,90"
     },
     avaliacoes: [
